@@ -20,6 +20,9 @@
 
 ## Network
 
-* [Untitled](network/untitled/README.md)
-  * [DMZ](network/untitled/dmz.md)
+* [DMZ](network/dmz.md)
+
+## VMs & Containers
+
+* [Virtual Machine \(VM\)](vms-and-containers/virtual-machine-vm.md)
 
