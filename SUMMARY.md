@@ -8,7 +8,7 @@
 
 ## Cloud
 
-* [Untitled](cloud/untitled.md)
+* [Untitled](monitoring/untitled.md)
 
 ## Monitoring
 
@@ -25,4 +25,8 @@
 ## VMs & Containers
 
 * [Virtual Machine \(VM\)](vms-and-containers/virtual-machine-vm.md)
+
+## Kubernetes \(k8s\)
+
+* [Security practices](kubernetes-k8s/security-practices.md)
 
