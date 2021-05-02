@@ -11,6 +11,7 @@
 * [Transit Gateway](cloud/untitled.md)
 * [7 R's](cloud/7-rs.md)
 * [AWS Well Architected Framework](cloud/aws-well-architected-framework.md)
+* [Landing Zone](cloud/landing-zone.md)
 
 ## Monitoring
 
