@@ -5,6 +5,7 @@
 ## Operating Systems
 
 * [Linux](operating-systems/linux.md)
+* [Users management](operating-systems/users-management.md)
 
 ## Cloud
 
