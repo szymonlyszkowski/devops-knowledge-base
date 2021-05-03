@@ -14,23 +14,21 @@ Detailed information about migration can be found in:
 
 The purpose of rehosting is basically moving all servers using lift and shift method from on-premise to cloud environment. Move applications with **NO** change. Such move can already save significant amount of money
 
-## Re-hosting \(using Hyper-V\)
+## Re-hosting \(hypervisor-level lift and shift\)
 
 Use AWS Migration Service to migrate Hyper-V based VMs to AWS. 
 
-## Re-platforming
+## Re-platforming \(lift & reshape\)
 
 Try to move your applications to use infrastructure services. 
 
 Example: Instead of installation & maintenance of a database use ready to use AWS RDS service by your applications.
 
-Avoid using licence-expensive software to opensource e.g. move weblogic to apache tomcat
-
 ## Refactor/Reachitect
 
-Consider moving your product applications \(responsible for making your business profit\) to cloud-native environment. E.g. move monolithic applications to service oriented archtecture or microservices.
+Consider moving your product applications \(responsible for making your business profit\) to cloud-native environment. E.g. move monolithic applications to service oriented archtecture or microservices, Avoid using licence-expensive software to opensource e.g. move weblogic to apache tomcat
 
-## Repurchase
+## Repurchase \(drop & shop\)
 
 Try to adopt your system by using 3rd party vendor software.   
 Example: Use Workday in SaaS model for HR in your organisation instead of hosting it on your own.
