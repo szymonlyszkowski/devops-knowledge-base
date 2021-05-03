@@ -6,7 +6,7 @@ description: >-
 
 # 7 R's
 
-Detailed information about migration can be found in: 
+Detailed information about migration can be found in:
 
 {% file src="../.gitbook/assets/aws-migration-whitepaper.pdf" caption="aws migration whitepaper" %}
 
@@ -16,11 +16,11 @@ The purpose of rehosting is basically moving all servers using lift and shift me
 
 ## Re-hosting \(using Hyper-V\)
 
-Use AWS Migration Service to migrate Hyper-V based VMs to AWS. 
+Use AWS Migration Service to migrate Hyper-V based VMs to AWS.
 
 ## Re-platforming
 
-Try to move your applications to use infrastructure services. 
+Try to move your applications to use infrastructure services.
 
 Example: Instead of installation & maintenance of a database use ready to use AWS RDS service by your applications.
 
@@ -32,7 +32,7 @@ Consider moving your product applications \(responsible for making your business
 
 ## Repurchase
 
-Try to adopt your system by using 3rd party vendor software.   
+Try to adopt your system by using 3rd party vendor software.  
 Example: Use Workday in SaaS model for HR in your organisation instead of hosting it on your own.
 
 ## Retire
@@ -42,6 +42,4 @@ Revisit all applications deployed within your datacanter before moving to cloud.
 ## Retain
 
 Leave your business critical application inside your datacenter but only those **which require major refactoring**
-
-### 
 
