@@ -14,6 +14,10 @@
 * [AWS Well Architected Framework](cloud/aws-well-architected-framework.md)
 * [Landing Zone](cloud/landing-zone.md)
 
+## Crafstmanship <a href="#cloud" id="cloud"></a>
+
+* [.profile](cloud-1/.profile.md)
+
 ## Monitoring
 
 * [Untitled](monitoring/untitled.md)
@@ -28,9 +32,9 @@
 
 ## VMs & Containers
 
-* [Virtual Machine \(VM\)](vms-and-containers/virtual-machine-vm.md)
+* [Virtual Machine (VM)](vms-and-containers/virtual-machine-vm.md)
 
-## Kubernetes \(k8s\)
+## Kubernetes (k8s)
 
 * [Security practices](kubernetes-k8s/security-practices.md)
 
@@ -43,4 +47,3 @@
 * [Regression tests](test-suite-classification/regression-tests.md)
 * [Load tests](test-suite-classification/load-tests.md)
 * [Stress test](test-suite-classification/stress-test.md)
-
